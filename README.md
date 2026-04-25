@@ -28,7 +28,7 @@ Hoje estou migrando para o desenvolvimento de software, unindo minha experiênci
 | Projeto | Descrição |
 |--------|-----------|
 | em breve | Projeto de faculdade com lógica aplicada |
-| em breve | Pequeno sistema para simular alarme residencial |
+| em breve | Pequeno sistema para registrar chamado de CFTV |
 
 > 🔄 Em constante evolução — novos projetos serão adicionados durante o curso.
 
